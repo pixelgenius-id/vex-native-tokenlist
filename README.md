@@ -47,10 +47,12 @@ Add a new entry inside the `"tokens"` array:
   "contract": "yourcontract",
   "symbol": "MYTKN",
   "precision": 4,
-  "name": "Your Token Full Name",
-  "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/MYTKN.png"
+  "name": "Your Token Full Name"
 }
 ```
+
+> **Do not add `logoURI`** — it will be set automatically after your PR is merged.
+> If you include `logoURI`, the validation will fail.
 
 > Symbol must be **uppercase letters only** (e.g. `VEX`, `USDT`, `SPARK`).
 
