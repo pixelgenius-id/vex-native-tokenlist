@@ -11,7 +11,7 @@ import subprocess
 import requests
 from PIL import Image
 
-CHAIN_API   = "https://vexascan.com"
+CHAIN_API   = "https://vexascan.com:8443"
 MIN_AGE_DAYS = 7
 MAX_LOGO_KB  = 50
 LOGO_SIZE    = 256
@@ -167,7 +167,7 @@ for token in tokens:
     # Contract age (first action timestamp via Hyperion)
     try:
         resp = requests.get(
-            f"https://vexascan.com/v2/history/get_actions",
+            f"https://vexascan.com:8443/v2/history/get_actions",
             params={
                 "account": contract,
                 "limit": 1,
