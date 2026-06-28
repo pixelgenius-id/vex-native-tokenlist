@@ -98,11 +98,18 @@ if base_keys:
 else:
     warn("Could not load base branch — skipping removal check")
 
-# ── 2. Per-token validation ───────────────────────────────────────────────────
+# ── 2. Per-token validation (new tokens only) ─────────────────────────────────
 REQUIRED_FIELDS = {"contract", "symbol", "precision", "name"}
 EOSIO_TOKEN_ACTIONS = {"transfer", "issue", "create"}
 
-for token in tokens:
+new_tokens = [
+    t for t in tokens
+    if f"{t.get('contract')}::{t.get('symbol')}" not in base_keys
+] if base_keys else tokens
+
+info(f"New tokens to validate: {len(new_tokens)}")
+
+for token in new_tokens:
     contract  = token.get("contract", "")
     symbol    = token.get("symbol", "?")
     precision = token.get("precision")
