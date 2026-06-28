@@ -150,7 +150,7 @@
       "symbol": "VUSDT",
       "precision": 6,
       "name": "VUSDT",
-      "logoURI": "http://68.183.234.182/assets/images/97d4b2be2e398f6bbb3a10c2bb3b1607.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VUSDT.png"
     },
     {
       "contract": "theidrstoken",
@@ -178,7 +178,7 @@
       "symbol": "USDV",
       "precision": 6,
       "name": "USDV",
-      "logoURI": "http://68.183.234.182/assets/images/38bb2d8ddb7c307834ea01d62b3fc74e.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDV.png"
     },
     {
       "contract": "thekpnutoken",
@@ -192,7 +192,7 @@
       "symbol": "DJV",
       "precision": 8,
       "name": "DJV",
-      "logoURI": "http://68.183.234.182/assets/images/be9cb24472c20cc2af6c7da467c21902.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DJV.png"
     },
     {
       "contract": "wrapingtoken",
@@ -206,14 +206,14 @@
       "symbol": "USDT",
       "precision": 4,
       "name": "USDT",
-      "logoURI": "http://68.183.234.182/assets/images/4c2b9f4ce430998f56790e03f88d98b2.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDT.png"
     },
     {
       "contract": "tokenlabirin",
       "symbol": "LBN",
       "precision": 5,
       "name": "LBN",
-      "logoURI": "http://68.183.234.182/assets/images/94ee9c7abcfc21826f7af5a9f1fb1704.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LBN.png"
     },
     {
       "contract": "pwhgametoken",
@@ -227,14 +227,14 @@
       "symbol": "IDK",
       "precision": 8,
       "name": "IDK",
-      "logoURI": "http://68.183.234.182/assets/images/e612e33515f475b58e60bced7904023b.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IDK.png"
     },
     {
       "contract": "betariumtokn",
       "symbol": "BETRIUM",
       "precision": 4,
       "name": "BETRIUM",
-      "logoURI": "http://68.183.234.182/assets/images/2a8bc84e9876a7c4c9f6210430c2f01a.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BETRIUM.png"
     },
     {
       "contract": "rzbvlifetime",
@@ -262,7 +262,7 @@
       "symbol": "NDESO",
       "precision": 8,
       "name": "NDESO",
-      "logoURI": "http://68.183.234.182/assets/images/d4fdccff6182e674fb524ac57daacc14.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/NDESO.jpeg"
     },
     {
       "contract": "vexnewtokens",
@@ -276,7 +276,7 @@
       "symbol": "DGN",
       "precision": 8,
       "name": "DGN",
-      "logoURI": "http://68.183.234.182/assets/images/c7196ad66407d1becf474786e0c88c1e.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DGN.png"
     },
     {
       "contract": "vexbasotoken",
@@ -297,21 +297,21 @@
       "symbol": "BNKRI",
       "precision": 10,
       "name": "BNKRI",
-      "logoURI": "http://68.183.234.182/assets/images/db84c76c491de26140d9fab191ce8618.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNKRI.png"
     },
     {
       "contract": "kujangtokenn",
       "symbol": "KUJANG",
       "precision": 8,
       "name": "KUJANG",
-      "logoURI": "http://68.183.234.182/assets/images/df4fc31f67d3ce73a1f6a4536ce56efd.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUJANG.jpeg"
     },
     {
       "contract": "trafiiotoken",
       "symbol": "TRAFI",
       "precision": 10,
       "name": "TRAFI",
-      "logoURI": "http://68.183.234.182/assets/images/4147ff2f257cd72c3584d695fb3324cc.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TRAFI.png"
     },
     {
       "contract": "lautlauttest",
@@ -332,14 +332,14 @@
       "symbol": "SDJV",
       "precision": 8,
       "name": "SDJV",
-      "logoURI": "http://68.183.234.182/assets/images/c3a45f535a935ae194377d92d977a60a.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SDJV.jpeg"
     },
     {
       "contract": "rupiahdejave",
       "symbol": "RDJV",
       "precision": 8,
       "name": "RDJV",
-      "logoURI": "http://68.183.234.182/assets/images/7dbfa3ef0bc5d04ee38b770af1ba2580.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/RDJV.jpeg"
     },
     {
       "contract": "kepengcore",
@@ -367,14 +367,14 @@
       "symbol": "AD",
       "precision": 10,
       "name": "AD",
-      "logoURI": "http://68.183.234.182/assets/images/ed17f2286c7ca9a899dc9b0efe1673f3.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/AD.png"
     },
     {
       "contract": "saladswaptkn",
       "symbol": "SALAD",
       "precision": 8,
       "name": "SALAD",
-      "logoURI": "http://68.183.234.182/assets/images/c20a06dc9c84f09e69cf481c88a68229.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SALAD.png"
     },
     {
       "contract": "sab1lulungan",
@@ -486,7 +486,7 @@
       "symbol": "PJRC",
       "precision": 8,
       "name": "PJRC",
-      "logoURI": "http://68.183.234.182/assets/images/a97c4190886834150ea3a353c922ca4e.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/PJRC.png"
     },
     {
       "contract": "zen.speakapp",
@@ -535,7 +535,7 @@
       "symbol": "COFIN",
       "precision": 6,
       "name": "COFIN",
-      "logoURI": "http://68.183.234.182/assets/images/695966fe230756a712590724fc3a2695.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/COFIN.png"
     },
     {
       "contract": "xsgdvextoken",
@@ -549,21 +549,21 @@
       "symbol": "SHIBV",
       "precision": 6,
       "name": "SHIBV",
-      "logoURI": "http://68.183.234.182/assets/images/28ae5b1f414f5dfe0bba34d9bdbaa9c2.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SHIBV.jpeg"
     },
     {
       "contract": "vexadogevexa",
       "symbol": "VDOGE",
       "precision": 8,
       "name": "VDOGE",
-      "logoURI": "http://68.183.234.182/assets/images/44a0a981ea716906ae33ca8b4dde50d5.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VDOGE.png"
     },
     {
       "contract": "safefiesta11",
       "symbol": "FIESTA",
       "precision": 6,
       "name": "FIESTA",
-      "logoURI": "http://68.183.234.182/assets/images/99bc0f61fec5364439478a431eaa8201.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/FIESTA.png"
     },
     {
       "contract": "syukurnyaman",
@@ -654,7 +654,7 @@
       "symbol": "ZIDR",
       "precision": 2,
       "name": "ZIDR",
-      "logoURI": "http://68.183.234.182/assets/images/6109082103a4488cce0fdc33c6fd87e7.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ZIDR.png"
     },
     {
       "contract": "lazioligacup",
@@ -675,7 +675,7 @@
       "symbol": "ARCI",
       "precision": 6,
       "name": "ARCI",
-      "logoURI": "http://68.183.234.182/assets/images/d366cb87a1fb51aae491440111b33790.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ARCI.png"
     },
     {
       "contract": "xakti",
@@ -710,7 +710,7 @@
       "symbol": "BUSD",
       "precision": 8,
       "name": "BUSD",
-      "logoURI": "http://68.183.234.182/assets/images/ef0d63fbc4a346067efa0ca1fdc9ea2b.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BUSD.png"
     },
     {
       "contract": "bnbvexbnbvex",
@@ -752,7 +752,7 @@
       "symbol": "WISE",
       "precision": 8,
       "name": "WISE",
-      "logoURI": "http://68.183.234.182/assets/images/02dfe168b16e8fea0de383f994d8fb5f.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WISE.png"
     },
     {
       "contract": "vexnewtokens",
@@ -794,14 +794,14 @@
       "symbol": "TESS",
       "precision": 8,
       "name": "TESS",
-      "logoURI": "http://68.183.234.182/assets/images/5d27a5b10e07859e76ec42322466a3fc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TESS.jpg"
     },
     {
       "contract": "ditesttestts",
       "symbol": "DITES",
       "precision": 8,
       "name": "DITES",
-      "logoURI": "http://68.183.234.182/assets/images/2ad8b1a08b8f50c77701909a8670d87e.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DITES.png"
     },
     {
       "contract": "liverpoolvex",
@@ -829,7 +829,7 @@
       "symbol": "STAR",
       "precision": 8,
       "name": "STAR",
-      "logoURI": "http://68.183.234.182/assets/images/70c40873d0a69fa9314ed021b97720e8.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STAR.png"
     },
     {
       "contract": "shutterspeed",
@@ -857,7 +857,7 @@
       "symbol": "DOI",
       "precision": 4,
       "name": "DOI",
-      "logoURI": "http://68.183.234.182/assets/images/3a0ac70b53fba982c65b9ea9c6b124c6.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DOI.png"
     },
     {
       "contract": "wrbittorrent",
@@ -878,7 +878,7 @@
       "symbol": "IMPX",
       "precision": 8,
       "name": "IMPX",
-      "logoURI": "http://68.183.234.182/assets/images/c96f525262aad302928625aa9dbe5b35.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IMPX.jpeg"
     },
     {
       "contract": "casvcasvcasv",
@@ -920,49 +920,49 @@
       "symbol": "EMAS",
       "precision": 8,
       "name": "EMAS",
-      "logoURI": "http://68.183.234.182/assets/images/711f87c9f2347ebfec5e6a8c7106744d.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EMAS.png"
     },
     {
       "contract": "ayutingtoken",
       "symbol": "ATTK",
       "precision": 8,
       "name": "ATTK",
-      "logoURI": "http://68.183.234.182/assets/images/cd415c95f1854f8ad38fe827d731214d.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ATTK.png"
     },
     {
       "contract": "rockinliloco",
       "symbol": "LILO",
       "precision": 8,
       "name": "LILO",
-      "logoURI": "http://68.183.234.182/assets/images/d2b0e9fdcad4c1c711e864ce7a1ad4d5.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LILO.png"
     },
     {
       "contract": "bnpcrossroad",
       "symbol": "BNPX",
       "precision": 8,
       "name": "BNPX",
-      "logoURI": "http://68.183.234.182/assets/images/23b1978c42dbb5f601dfff115063ee46.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNPX.png"
     },
     {
       "contract": "starchandise",
       "symbol": "STARX",
       "precision": 8,
       "name": "STARX",
-      "logoURI": "http://68.183.234.182/assets/images/8c9d8c9827b44e8f69c31c914c263924.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STARX.png"
     },
     {
       "contract": "mydiostarsco",
       "symbol": "MDS",
       "precision": 8,
       "name": "MDS",
-      "logoURI": "http://68.183.234.182/assets/images/01e5b4911085eb7e825578806c486d21.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/MDS.png"
     },
     {
       "contract": "grammykripto",
       "symbol": "GMY",
       "precision": 8,
       "name": "GMY",
-      "logoURI": "http://68.183.234.182/assets/images/24c80c56b725ce58b46d059b483d2d1b.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/GMY.png"
     },
     {
       "contract": "freepadtoken",
@@ -976,7 +976,7 @@
       "symbol": "ASPT",
       "precision": 8,
       "name": "ASPT",
-      "logoURI": "http://68.183.234.182/assets/images/5f1fa579e562a6cd39d80deab808fb5a.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASPT.png"
     },
     {
       "contract": "asixpointvex",
@@ -990,7 +990,7 @@
       "symbol": "ASIXP",
       "precision": 5,
       "name": "ASIXP",
-      "logoURI": "http://68.183.234.182/assets/images/42627e793cc1938c12e5c9b4714abb6e.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASIXP.png"
     },
     {
       "contract": "accapayainih",
@@ -1004,14 +1004,14 @@
       "symbol": "BTV",
       "precision": 8,
       "name": "BTV",
-      "logoURI": "http://68.183.234.182/assets/images/9f326a012db709a7c1b2c9a447d8ac7c.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BTV.png"
     },
     {
       "contract": "vexakuytoken",
       "symbol": "KUY",
       "precision": 10,
       "name": "KUY",
-      "logoURI": "http://68.183.234.182/assets/images/d05360f9d96a70ef6b245ae0e46485ab.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUY.png"
     },
     {
       "contract": "love",
@@ -1067,14 +1067,14 @@
       "symbol": "WSPP",
       "precision": 4,
       "name": "WSPP",
-      "logoURI": "http://68.183.234.182/assets/images/6163a8167fc7515afcf0ccd024f48aec.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WSPP.png"
     },
     {
       "contract": "bitchip",
       "symbol": "CHIP",
       "precision": 2,
       "name": "CHIP",
-      "logoURI": "http://68.183.234.182/assets/images/447461f6d8f82687a357cdf6a1816826.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/CHIP.png"
     },
     {
       "contract": "z.bitvexa",
@@ -1102,7 +1102,7 @@
       "symbol": "HASH",
       "precision": 2,
       "name": "HASH",
-      "logoURI": "http://68.183.234.182/assets/images/d823c5b4b3cba2123eab36ca40b96842.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/HASH.png"
     },
     {
       "contract": "arsitektoken",
@@ -1116,7 +1116,7 @@
       "symbol": "LITE",
       "precision": 4,
       "name": "LITE",
-      "logoURI": "http://68.183.234.182/assets/images/52db5912668996bf0461553e01377523.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LITE.png"
     },
     {
       "contract": "vexnewtokens",
@@ -1130,7 +1130,7 @@
       "symbol": "EVO",
       "precision": 10,
       "name": "EVO",
-      "logoURI": "http://68.183.234.182/assets/images/fbdbceaa252528c42c1bad1f77482711.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EVO.png"
     },
     {
       "contract": "foxauthority",
@@ -1151,7 +1151,7 @@
       "symbol": "VYN",
       "precision": 8,
       "name": "VYN",
-      "logoURI": "http://68.183.234.182/assets/images/beb6e59433b64f7e643cf20042c2004b.png"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VYN.png"
     },
     {
       "contract": "valenbit.bit",
