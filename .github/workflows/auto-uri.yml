@@ -1,0 +1,54 @@
+name: Auto-set logoURI after merge
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tokenlist.json"
+      - "assets/**"
+
+jobs:
+  auto-uri:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Auto-set logoURI for all tokens
+        run: |
+          python3 - <<'EOF'
+          import json, os
+
+          BASE = "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/"
+
+          with open("tokenlist.json") as f:
+              data = json.load(f)
+
+          changed = 0
+          for t in data["tokens"]:
+              sym = t.get("symbol", "")
+              asset = f"assets/{sym}.png"
+              expected = f"{BASE}{sym}.png"
+              if os.path.exists(asset) and t.get("logoURI") != expected:
+                  t["logoURI"] = expected
+                  changed += 1
+
+          if changed:
+              with open("tokenlist.json", "w") as f:
+                  json.dump(data, f, indent=2, ensure_ascii=False)
+              print(f"Updated logoURI for {changed} token(s)")
+          else:
+              print("No changes needed")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet tokenlist.json || (
+            git add tokenlist.json &&
+            git commit -m "auto: update logoURI after merge" &&
+            git push
+          )

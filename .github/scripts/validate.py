@@ -99,7 +99,7 @@ else:
     warn("Could not load base branch — skipping removal check")
 
 # ── 2. Per-token validation ───────────────────────────────────────────────────
-REQUIRED_FIELDS = {"contract", "symbol", "precision", "name", "logoURI"}
+REQUIRED_FIELDS = {"contract", "symbol", "precision", "name"}
 EOSIO_TOKEN_ACTIONS = {"transfer", "issue", "create"}
 
 for token in tokens:
@@ -218,19 +218,17 @@ for token in tokens:
         except Exception as e:
             fail(f"{label}: Cannot read logo image: {e}")
 
-    # logoURI must point to this repo (no IPFS, no external links)
+    # Logo file must exist in assets/ — logoURI is auto-generated on merge
+    logo_path = f"assets/{symbol}.png"
     GITHUB_BASE = "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/"
     logo_uri = token.get("logoURI", "")
-    if not logo_uri.startswith(GITHUB_BASE):
-        fail(f"{label}: logoURI must be a GitHub raw URL from this repo.\n"
-             f"  Expected format: `{GITHUB_BASE}{symbol}.png`\n"
-             f"  Got: `{logo_uri}`\n"
-             f"  External links (IPFS, HTTP, etc.) are not allowed.")
+    if not os.path.exists(logo_path):
+        fail(f"{label}: Logo file not found at `{logo_path}` — please upload your logo as `assets/{symbol}.png` (256×256 PNG, max 50KB)")
     else:
-        expected_uri = f"{GITHUB_BASE}{symbol}.png"
-        if logo_uri != expected_uri:
-            warn(f"{label}: logoURI should be `{expected_uri}`")
-        else:
-            ok(f"{label}: logoURI format correct")
+        ok(f"{label}: Logo file `{logo_path}` exists")
+        if logo_uri and not logo_uri.startswith(GITHUB_BASE):
+            fail(f"{label}: `logoURI` must use this repo's GitHub raw URL or be left empty (auto-generated on merge).\n"
+                 f"  External links (IPFS, HTTP, etc.) are not allowed.\n"
+                 f"  Leave `logoURI` empty — it will be set automatically after merge.")
 
 sys.exit(write_result())
