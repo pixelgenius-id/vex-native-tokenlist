@@ -15,7 +15,8 @@
       "contract": "spark",
       "symbol": "SPARK",
       "precision": 4,
-      "name": "NodeSpark"
+      "name": "NodeSpark",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SPARK.png"
     },
     {
       "contract": "vex.token",
