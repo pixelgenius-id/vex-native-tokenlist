@@ -4,7 +4,7 @@ Official token list for VEX native chain (EOSIO/eosio.token standard). PR-based 
 
 **Token List URL:**
 ```
-https://raw.githubusercontent.com/YudaAdiPratama/vex-native-tokenlist/main/tokenlist.json
+https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/tokenlist.json
 ```
 
 ## Submit a Token
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/YudaAdiPratama/vex-native-tokenlist/main/token
   "symbol": "SYM",
   "precision": 4,
   "name": "Token Full Name",
-  "logoURI": "https://raw.githubusercontent.com/YudaAdiPratama/vex-native-tokenlist/main/assets/SYM.png"
+  "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SYM.png"
 }
 ```
 

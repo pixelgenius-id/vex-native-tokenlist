@@ -219,7 +219,7 @@ for token in tokens:
             fail(f"{label}: Cannot read logo image: {e}")
 
     # logoURI format
-    expected_uri = f"https://raw.githubusercontent.com/YudaAdiPratama/vex-native-tokenlist/main/assets/{symbol}.png"
+    expected_uri = f"https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/{symbol}.png"
     if token["logoURI"] != expected_uri:
         warn(f"{label}: logoURI should be:\n  `{expected_uri}`")
     else:
