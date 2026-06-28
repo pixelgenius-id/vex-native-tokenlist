@@ -33,363 +33,6 @@
       "logoURI": "https://ipfs.io/ipfs/QmbyqvACRiuh6VBfB1y5emw8wAgecVCcbF4ZeJCizWF344"
     },
     {
-      "contract": "deficointest",
-      "symbol": "VUSDT",
-      "precision": 6,
-      "name": "VUSDT",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VUSDT.png"
-    },
-    {
-      "contract": "vyndaoutoken",
-      "symbol": "USDV",
-      "precision": 6,
-      "name": "USDV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDV.png"
-    },
-    {
-      "contract": "djvtokenvexa",
-      "symbol": "DJV",
-      "precision": 8,
-      "name": "DJV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DJV.png"
-    },
-    {
-      "contract": "wrapingtoken",
-      "symbol": "USDT",
-      "precision": 4,
-      "name": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDT.png"
-    },
-    {
-      "contract": "tokenlabirin",
-      "symbol": "LBN",
-      "precision": 5,
-      "name": "LBN",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LBN.png"
-    },
-    {
-      "contract": "idkidkidkidk",
-      "symbol": "IDK",
-      "precision": 8,
-      "name": "IDK",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IDK.png"
-    },
-    {
-      "contract": "betariumtokn",
-      "symbol": "BETRIUM",
-      "precision": 4,
-      "name": "BETRIUM",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BETRIUM.png"
-    },
-    {
-      "contract": "vexnewtokens",
-      "symbol": "NDESO",
-      "precision": 8,
-      "name": "NDESO",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/NDESO.jpeg"
-    },
-    {
-      "contract": "diginomic123",
-      "symbol": "DGN",
-      "precision": 8,
-      "name": "DGN",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DGN.png"
-    },
-    {
-      "contract": "bnkriiotoken",
-      "symbol": "BNKRI",
-      "precision": 10,
-      "name": "BNKRI",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNKRI.png"
-    },
-    {
-      "contract": "kujangtokenn",
-      "symbol": "KUJANG",
-      "precision": 8,
-      "name": "KUJANG",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUJANG.jpeg"
-    },
-    {
-      "contract": "trafiiotoken",
-      "symbol": "TRAFI",
-      "precision": 10,
-      "name": "TRAFI",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TRAFI.png"
-    },
-    {
-      "contract": "dollardejave",
-      "symbol": "SDJV",
-      "precision": 8,
-      "name": "SDJV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SDJV.jpeg"
-    },
-    {
-      "contract": "rupiahdejave",
-      "symbol": "RDJV",
-      "precision": 8,
-      "name": "RDJV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/RDJV.jpeg"
-    },
-    {
-      "contract": "ad24vextoken",
-      "symbol": "AD",
-      "precision": 10,
-      "name": "AD",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/AD.png"
-    },
-    {
-      "contract": "saladswaptkn",
-      "symbol": "SALAD",
-      "precision": 8,
-      "name": "SALAD",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SALAD.png"
-    },
-    {
-      "contract": "pjrcpjrcpjrc",
-      "symbol": "PJRC",
-      "precision": 8,
-      "name": "PJRC",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/PJRC.png"
-    },
-    {
-      "contract": "gemtokenpool",
-      "symbol": "COFIN",
-      "precision": 6,
-      "name": "COFIN",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/COFIN.png"
-    },
-    {
-      "contract": "shibvexanium",
-      "symbol": "SHIBV",
-      "precision": 6,
-      "name": "SHIBV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SHIBV.jpeg"
-    },
-    {
-      "contract": "vexadogevexa",
-      "symbol": "VDOGE",
-      "precision": 8,
-      "name": "VDOGE",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VDOGE.png"
-    },
-    {
-      "contract": "safefiesta11",
-      "symbol": "FIESTA",
-      "precision": 6,
-      "name": "FIESTA",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/FIESTA.png"
-    },
-    {
-      "contract": "idr.speakapp",
-      "symbol": "ZIDR",
-      "precision": 2,
-      "name": "ZIDR",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ZIDR.png"
-    },
-    {
-      "contract": "token.arci",
-      "symbol": "ARCI",
-      "precision": 6,
-      "name": "ARCI",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ARCI.png"
-    },
-    {
-      "contract": "busdbusdbusd",
-      "symbol": "BUSD",
-      "precision": 8,
-      "name": "BUSD",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BUSD.png"
-    },
-    {
-      "contract": "wisetokenvex",
-      "symbol": "WISE",
-      "precision": 8,
-      "name": "WISE",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WISE.png"
-    },
-    {
-      "contract": "testtesttess",
-      "symbol": "TESS",
-      "precision": 8,
-      "name": "TESS",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TESS.jpg"
-    },
-    {
-      "contract": "ditesttestts",
-      "symbol": "DITES",
-      "precision": 8,
-      "name": "DITES",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DITES.png"
-    },
-    {
-      "contract": "starstarstar",
-      "symbol": "STAR",
-      "precision": 8,
-      "name": "STAR",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STAR.png"
-    },
-    {
-      "contract": "doidoidoidoi",
-      "symbol": "DOI",
-      "precision": 4,
-      "name": "DOI",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DOI.png"
-    },
-    {
-      "contract": "improduction",
-      "symbol": "IMPX",
-      "precision": 8,
-      "name": "IMPX",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IMPX.jpeg"
-    },
-    {
-      "contract": "koinemasindo",
-      "symbol": "EMAS",
-      "precision": 8,
-      "name": "EMAS",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EMAS.png"
-    },
-    {
-      "contract": "ayutingtoken",
-      "symbol": "ATTK",
-      "precision": 8,
-      "name": "ATTK",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ATTK.png"
-    },
-    {
-      "contract": "rockinliloco",
-      "symbol": "LILO",
-      "precision": 8,
-      "name": "LILO",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LILO.png"
-    },
-    {
-      "contract": "bnpcrossroad",
-      "symbol": "BNPX",
-      "precision": 8,
-      "name": "BNPX",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNPX.png"
-    },
-    {
-      "contract": "starchandise",
-      "symbol": "STARX",
-      "precision": 8,
-      "name": "STARX",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STARX.png"
-    },
-    {
-      "contract": "mydiostarsco",
-      "symbol": "MDS",
-      "precision": 8,
-      "name": "MDS",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/MDS.png"
-    },
-    {
-      "contract": "grammykripto",
-      "symbol": "GMY",
-      "precision": 8,
-      "name": "GMY",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/GMY.png"
-    },
-    {
-      "contract": "asptvextoken",
-      "symbol": "ASPT",
-      "precision": 8,
-      "name": "ASPT",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASPT.png"
-    },
-    {
-      "contract": "asixplus",
-      "symbol": "ASIXP",
-      "precision": 5,
-      "name": "ASIXP",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASIXP.png"
-    },
-    {
-      "contract": "bitvexatoken",
-      "symbol": "BTV",
-      "precision": 8,
-      "name": "BTV",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BTV.png"
-    },
-    {
-      "contract": "vexakuytoken",
-      "symbol": "KUY",
-      "precision": 10,
-      "name": "KUY",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUY.png"
-    },
-    {
-      "contract": "wsppofficial",
-      "symbol": "WSPP",
-      "precision": 4,
-      "name": "WSPP",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WSPP.png"
-    },
-    {
-      "contract": "bitchip",
-      "symbol": "CHIP",
-      "precision": 2,
-      "name": "CHIP",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/CHIP.png"
-    },
-    {
-      "contract": "bithash",
-      "symbol": "HASH",
-      "precision": 2,
-      "name": "HASH",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/HASH.png"
-    },
-    {
-      "contract": "litera.id",
-      "symbol": "LITE",
-      "precision": 4,
-      "name": "LITE",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LITE.png"
-    },
-    {
-      "contract": "evovexatoken",
-      "symbol": "EVO",
-      "precision": 10,
-      "name": "EVO",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EVO.png"
-    },
-    {
-      "contract": "ltvextokenss",
-      "symbol": "LTVEX",
-      "precision": 4,
-      "name": "LTVEX",
-      "logoURI": "https://ipfs.io/ipfs/QmVvjcqBguJBCv3MSM8yH5yMAUvY8M3mb59J8efAwvGxky"
-    },
-    {
-      "contract": "vyndaoutoken",
-      "symbol": "VYN",
-      "precision": 8,
-      "name": "VYN",
-      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VYN.png"
-    },
-    {
-      "contract": "valenbit.bit",
-      "symbol": "VLEN",
-      "precision": 8,
-      "name": "VLEN",
-      "logoURI": "https://ipfs.io/ipfs/QmZNtDqGcqNo8Nt3v52MYXeCz6pkE3Z65w6zzcWvJ3EcvL"
-    },
-    {
-      "contract": "tokensawit",
-      "symbol": "SAWIT",
-      "precision": 4,
-      "name": "SAWIT",
-      "logoURI": "https://ipfs.io/ipfs/QmSv1JzS3eQNByReXDQCSCgRSTgLSStuZGt4Adm5cp7CZB"
-    },
-    {
-      "contract": "windaxgold24",
-      "symbol": "WDX",
-      "precision": 4,
-      "name": "WDX",
-      "logoURI": "https://i.imgur.com/k4en70v.png"
-    },
-    {
       "contract": "dogracetoken",
       "symbol": "DOG",
       "precision": 4,
@@ -502,6 +145,13 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "deficointest",
+      "symbol": "VUSDT",
+      "precision": 6,
+      "name": "VUSDT",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VUSDT.png"
+    },
+    {
       "contract": "theidrstoken",
       "symbol": "IDRS",
       "precision": 4,
@@ -523,11 +173,25 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "vyndaoutoken",
+      "symbol": "USDV",
+      "precision": 6,
+      "name": "USDV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDV.png"
+    },
+    {
       "contract": "thekpnutoken",
       "symbol": "KPNU",
       "precision": 4,
       "name": "KPNU",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "djvtokenvexa",
+      "symbol": "DJV",
+      "precision": 8,
+      "name": "DJV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DJV.png"
     },
     {
       "contract": "wrapingtoken",
@@ -537,11 +201,39 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "wrapingtoken",
+      "symbol": "USDT",
+      "precision": 4,
+      "name": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/USDT.png"
+    },
+    {
+      "contract": "tokenlabirin",
+      "symbol": "LBN",
+      "precision": 5,
+      "name": "LBN",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LBN.png"
+    },
+    {
       "contract": "pwhgametoken",
       "symbol": "PWH",
       "precision": 4,
       "name": "PWH",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idkidkidkidk",
+      "symbol": "IDK",
+      "precision": 8,
+      "name": "IDK",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IDK.png"
+    },
+    {
+      "contract": "betariumtokn",
+      "symbol": "BETRIUM",
+      "precision": 4,
+      "name": "BETRIUM",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BETRIUM.png"
     },
     {
       "contract": "rzbvlifetime",
@@ -566,10 +258,24 @@
     },
     {
       "contract": "vexnewtokens",
+      "symbol": "NDESO",
+      "precision": 8,
+      "name": "NDESO",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/NDESO.jpeg"
+    },
+    {
+      "contract": "vexnewtokens",
       "symbol": "BLC",
       "precision": 4,
       "name": "BLC",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "diginomic123",
+      "symbol": "DGN",
+      "precision": 8,
+      "name": "DGN",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DGN.png"
     },
     {
       "contract": "vexbasotoken",
@@ -586,6 +292,27 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "bnkriiotoken",
+      "symbol": "BNKRI",
+      "precision": 10,
+      "name": "BNKRI",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNKRI.png"
+    },
+    {
+      "contract": "kujangtokenn",
+      "symbol": "KUJANG",
+      "precision": 8,
+      "name": "KUJANG",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUJANG.jpeg"
+    },
+    {
+      "contract": "trafiiotoken",
+      "symbol": "TRAFI",
+      "precision": 10,
+      "name": "TRAFI",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TRAFI.png"
+    },
+    {
       "contract": "lautlauttest",
       "symbol": "LAUTT",
       "precision": 8,
@@ -598,6 +325,20 @@
       "precision": 8,
       "name": "RDNG",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "dollardejave",
+      "symbol": "SDJV",
+      "precision": 8,
+      "name": "SDJV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SDJV.jpeg"
+    },
+    {
+      "contract": "rupiahdejave",
+      "symbol": "RDJV",
+      "precision": 8,
+      "name": "RDJV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/RDJV.jpeg"
     },
     {
       "contract": "kepengcore",
@@ -619,6 +360,20 @@
       "precision": 8,
       "name": "ECASH",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ad24vextoken",
+      "symbol": "AD",
+      "precision": 10,
+      "name": "AD",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/AD.png"
+    },
+    {
+      "contract": "saladswaptkn",
+      "symbol": "SALAD",
+      "precision": 8,
+      "name": "SALAD",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SALAD.png"
     },
     {
       "contract": "sab1lulungan",
@@ -726,6 +481,13 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "pjrcpjrcpjrc",
+      "symbol": "PJRC",
+      "precision": 8,
+      "name": "PJRC",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/PJRC.png"
+    },
+    {
       "contract": "zen.speakapp",
       "symbol": "ZEN",
       "precision": 4,
@@ -768,11 +530,39 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "gemtokenpool",
+      "symbol": "COFIN",
+      "precision": 6,
+      "name": "COFIN",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/COFIN.png"
+    },
+    {
       "contract": "xsgdvextoken",
       "symbol": "XSGD",
       "precision": 6,
       "name": "XSGD",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "shibvexanium",
+      "symbol": "SHIBV",
+      "precision": 6,
+      "name": "SHIBV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SHIBV.jpeg"
+    },
+    {
+      "contract": "vexadogevexa",
+      "symbol": "VDOGE",
+      "precision": 8,
+      "name": "VDOGE",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VDOGE.png"
+    },
+    {
+      "contract": "safefiesta11",
+      "symbol": "FIESTA",
+      "precision": 6,
+      "name": "FIESTA",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/FIESTA.png"
     },
     {
       "contract": "syukurnyaman",
@@ -859,6 +649,13 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "idr.speakapp",
+      "symbol": "ZIDR",
+      "precision": 2,
+      "name": "ZIDR",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ZIDR.png"
+    },
+    {
       "contract": "lazioligacup",
       "symbol": "LAZIO",
       "precision": 6,
@@ -871,6 +668,13 @@
       "precision": 8,
       "name": "RDDV",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "token.arci",
+      "symbol": "ARCI",
+      "precision": 6,
+      "name": "ARCI",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ARCI.png"
     },
     {
       "contract": "xakti",
@@ -899,6 +703,13 @@
       "precision": 8,
       "name": "BDJV",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "busdbusdbusd",
+      "symbol": "BUSD",
+      "precision": 8,
+      "name": "BUSD",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BUSD.png"
     },
     {
       "contract": "bnbvexbnbvex",
@@ -936,6 +747,13 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "wisetokenvex",
+      "symbol": "WISE",
+      "precision": 8,
+      "name": "WISE",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WISE.png"
+    },
+    {
       "contract": "vexnewtokens",
       "symbol": "WBT",
       "precision": 4,
@@ -971,6 +789,20 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "testtesttess",
+      "symbol": "TESS",
+      "precision": 8,
+      "name": "TESS",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/TESS.jpg"
+    },
+    {
+      "contract": "ditesttestts",
+      "symbol": "DITES",
+      "precision": 8,
+      "name": "DITES",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DITES.png"
+    },
+    {
       "contract": "liverpoolvex",
       "symbol": "LFC",
       "precision": 4,
@@ -990,6 +822,13 @@
       "precision": 4,
       "name": "DECO",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "starstarstar",
+      "symbol": "STAR",
+      "precision": 8,
+      "name": "STAR",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STAR.png"
     },
     {
       "contract": "shutterspeed",
@@ -1013,6 +852,13 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "doidoidoidoi",
+      "symbol": "DOI",
+      "precision": 4,
+      "name": "DOI",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DOI.png"
+    },
+    {
       "contract": "wrbittorrent",
       "symbol": "WBTT",
       "precision": 6,
@@ -1025,6 +871,13 @@
       "precision": 4,
       "name": "WDAISYA",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "improduction",
+      "symbol": "IMPX",
+      "precision": 8,
+      "name": "IMPX",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/IMPX.jpeg"
     },
     {
       "contract": "casvcasvcasv",
@@ -1062,11 +915,67 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "koinemasindo",
+      "symbol": "EMAS",
+      "precision": 8,
+      "name": "EMAS",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EMAS.png"
+    },
+    {
+      "contract": "ayutingtoken",
+      "symbol": "ATTK",
+      "precision": 8,
+      "name": "ATTK",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ATTK.png"
+    },
+    {
+      "contract": "rockinliloco",
+      "symbol": "LILO",
+      "precision": 8,
+      "name": "LILO",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LILO.png"
+    },
+    {
+      "contract": "bnpcrossroad",
+      "symbol": "BNPX",
+      "precision": 8,
+      "name": "BNPX",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BNPX.png"
+    },
+    {
+      "contract": "starchandise",
+      "symbol": "STARX",
+      "precision": 8,
+      "name": "STARX",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/STARX.png"
+    },
+    {
+      "contract": "mydiostarsco",
+      "symbol": "MDS",
+      "precision": 8,
+      "name": "MDS",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/MDS.png"
+    },
+    {
+      "contract": "grammykripto",
+      "symbol": "GMY",
+      "precision": 8,
+      "name": "GMY",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/GMY.png"
+    },
+    {
       "contract": "freepadtoken",
       "symbol": "FREEP",
       "precision": 8,
       "name": "FREEP",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "asptvextoken",
+      "symbol": "ASPT",
+      "precision": 8,
+      "name": "ASPT",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASPT.png"
     },
     {
       "contract": "asixpointvex",
@@ -1076,11 +985,32 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "asixplus",
+      "symbol": "ASIXP",
+      "precision": 5,
+      "name": "ASIXP",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/ASIXP.png"
+    },
+    {
       "contract": "accapayainih",
       "symbol": "AA",
       "precision": 5,
       "name": "AA",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "bitvexatoken",
+      "symbol": "BTV",
+      "precision": 8,
+      "name": "BTV",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/BTV.png"
+    },
+    {
+      "contract": "vexakuytoken",
+      "symbol": "KUY",
+      "precision": 10,
+      "name": "KUY",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/KUY.png"
     },
     {
       "contract": "love",
@@ -1132,6 +1062,20 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "wsppofficial",
+      "symbol": "WSPP",
+      "precision": 4,
+      "name": "WSPP",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WSPP.png"
+    },
+    {
+      "contract": "bitchip",
+      "symbol": "CHIP",
+      "precision": 2,
+      "name": "CHIP",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/CHIP.png"
+    },
+    {
       "contract": "z.bitvexa",
       "symbol": "EXP",
       "precision": 2,
@@ -1153,11 +1097,25 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "bithash",
+      "symbol": "HASH",
+      "precision": 2,
+      "name": "HASH",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/HASH.png"
+    },
+    {
       "contract": "arsitektoken",
       "symbol": "ARSI",
       "precision": 6,
       "name": "ARSI",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "litera.id",
+      "symbol": "LITE",
+      "precision": 4,
+      "name": "LITE",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LITE.png"
     },
     {
       "contract": "vexnewtokens",
@@ -1167,11 +1125,39 @@
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
     },
     {
+      "contract": "evovexatoken",
+      "symbol": "EVO",
+      "precision": 10,
+      "name": "EVO",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/EVO.png"
+    },
+    {
       "contract": "foxauthority",
       "symbol": "FOX",
       "precision": 6,
       "name": "FOX",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ltvextokenss",
+      "symbol": "LTVEX",
+      "precision": 4,
+      "name": "LTVEX",
+      "logoURI": "https://ipfs.io/ipfs/QmVvjcqBguJBCv3MSM8yH5yMAUvY8M3mb59J8efAwvGxky"
+    },
+    {
+      "contract": "vyndaoutoken",
+      "symbol": "VYN",
+      "precision": 8,
+      "name": "VYN",
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VYN.png"
+    },
+    {
+      "contract": "valenbit.bit",
+      "symbol": "VLEN",
+      "precision": 8,
+      "name": "VLEN",
+      "logoURI": "https://ipfs.io/ipfs/QmZNtDqGcqNo8Nt3v52MYXeCz6pkE3Z65w6zzcWvJ3EcvL"
     },
     {
       "contract": "myrovextoken",
@@ -1200,6 +1186,20 @@
       "precision": 2,
       "name": "FLOW",
       "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "tokensawit",
+      "symbol": "SAWIT",
+      "precision": 4,
+      "name": "SAWIT",
+      "logoURI": "https://ipfs.io/ipfs/QmSv1JzS3eQNByReXDQCSCgRSTgLSStuZGt4Adm5cp7CZB"
+    },
+    {
+      "contract": "windaxgold24",
+      "symbol": "WDX",
+      "precision": 4,
+      "name": "WDX",
+      "logoURI": "https://i.imgur.com/k4en70v.png"
     },
     {
       "contract": "token.wind",
