@@ -226,9 +226,8 @@ for token in tokens:
         fail(f"{label}: Logo file not found at `{logo_path}` — please upload your logo as `assets/{symbol}.png` (256×256 PNG, max 50KB)")
     else:
         ok(f"{label}: Logo file `{logo_path}` exists")
-        if logo_uri and not logo_uri.startswith(GITHUB_BASE):
-            fail(f"{label}: `logoURI` must use this repo's GitHub raw URL or be left empty (auto-generated on merge).\n"
-                 f"  External links (IPFS, HTTP, etc.) are not allowed.\n"
-                 f"  Leave `logoURI` empty — it will be set automatically after merge.")
+        if logo_uri:
+            fail(f"{label}: Do not set `logoURI` manually — it will be auto-generated after merge.\n"
+                 f"  Remove `logoURI` from your token entry and just upload `assets/{symbol}.png`.")
 
 sys.exit(write_result())
