@@ -102,6 +102,17 @@ No additional steps needed.
 
 ---
 
+## Updating Your Logo
+
+To replace your token's logo, submit a new PR with just the updated logo file:
+
+1. Fork and clone the repo
+2. Replace `assets/SYMBOL.png` with your new logo (same filename, same 256×256 PNG requirements)
+3. Do **not** modify `logoURI` in `tokenlist.json` — it will be updated automatically after merge
+4. Submit a Pull Request
+
+---
+
 ## Resources
 
 - [SPARK Swap](https://swap.nodespark.fun)
