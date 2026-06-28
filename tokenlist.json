@@ -1,0 +1,1213 @@
+{
+  "name": "VEX Native Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2026-06-28T13:20:33.000Z",
+  "keywords": [
+    "vex",
+    "native",
+    "eosio"
+  ],
+  "tokens": [
+    {
+      "contract": "vex.token",
+      "symbol": "VEX",
+      "precision": 4,
+      "name": "VEX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexdicetoken",
+      "symbol": "DICE",
+      "precision": 4,
+      "name": "DICE",
+      "logoURI": "https://ipfs.io/ipfs/QmXsa1p5njh8nWwcxbzCHCf3yqv4zYfdHqPqFKKWniCNmS"
+    },
+    {
+      "contract": "flydicetoken",
+      "symbol": "FLY",
+      "precision": 4,
+      "name": "FLY",
+      "logoURI": "https://ipfs.io/ipfs/QmbyqvACRiuh6VBfB1y5emw8wAgecVCcbF4ZeJCizWF344"
+    },
+    {
+      "contract": "dogracetoken",
+      "symbol": "DOG",
+      "precision": 4,
+      "name": "DOG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "crazydgtoken",
+      "symbol": "CDOG",
+      "precision": 4,
+      "name": "CDOG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "realrtntoken",
+      "symbol": "RTN",
+      "precision": 4,
+      "name": "RTN",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ekasepbanjar",
+      "symbol": "GDAI",
+      "precision": 4,
+      "name": "GDAI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ekasepbanjar",
+      "symbol": "EPAY",
+      "precision": 4,
+      "name": "EPAY",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "rpx",
+      "symbol": "RPX",
+      "precision": 4,
+      "name": "RPX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "IDR",
+      "precision": 4,
+      "name": "IDR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "baygodzcoins",
+      "symbol": "BAYGODZ",
+      "precision": 4,
+      "name": "BAYGODZ",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "tsrstableidr",
+      "symbol": "TSR",
+      "precision": 4,
+      "name": "TSR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "danawakafvex",
+      "symbol": "WAKAF",
+      "precision": 4,
+      "name": "WAKAF",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BAMBU",
+      "precision": 4,
+      "name": "BAMBU",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "nhcore",
+      "symbol": "NHC",
+      "precision": 8,
+      "name": "NHC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "LOTS",
+      "precision": 2,
+      "name": "LOTS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "nhp.nhcore",
+      "symbol": "NHP",
+      "precision": 0,
+      "name": "NHP",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idktestinfla",
+      "symbol": "IDKTS",
+      "precision": 4,
+      "name": "IDKTS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idktestfix12",
+      "symbol": "IDKTI",
+      "precision": 4,
+      "name": "IDKTI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "deficointest",
+      "symbol": "VUSDT",
+      "precision": 6,
+      "name": "VUSDT",
+      "logoURI": "http://68.183.234.182/assets/images/97d4b2be2e398f6bbb3a10c2bb3b1607.png"
+    },
+    {
+      "contract": "theidrstoken",
+      "symbol": "IDRS",
+      "precision": 4,
+      "name": "IDRS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "thepingtoken",
+      "symbol": "PNG",
+      "precision": 0,
+      "name": "PNG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "skylabtokens",
+      "symbol": "SKY",
+      "precision": 0,
+      "name": "SKY",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vyndaoutoken",
+      "symbol": "USDV",
+      "precision": 6,
+      "name": "USDV",
+      "logoURI": "http://68.183.234.182/assets/images/38bb2d8ddb7c307834ea01d62b3fc74e.png"
+    },
+    {
+      "contract": "thekpnutoken",
+      "symbol": "KPNU",
+      "precision": 4,
+      "name": "KPNU",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "djvtokenvexa",
+      "symbol": "DJV",
+      "precision": 8,
+      "name": "DJV",
+      "logoURI": "http://68.183.234.182/assets/images/be9cb24472c20cc2af6c7da467c21902.png"
+    },
+    {
+      "contract": "wrapingtoken",
+      "symbol": "EOS",
+      "precision": 4,
+      "name": "EOS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wrapingtoken",
+      "symbol": "USDT",
+      "precision": 4,
+      "name": "USDT",
+      "logoURI": "http://68.183.234.182/assets/images/4c2b9f4ce430998f56790e03f88d98b2.png"
+    },
+    {
+      "contract": "tokenlabirin",
+      "symbol": "LBN",
+      "precision": 5,
+      "name": "LBN",
+      "logoURI": "http://68.183.234.182/assets/images/94ee9c7abcfc21826f7af5a9f1fb1704.png"
+    },
+    {
+      "contract": "pwhgametoken",
+      "symbol": "PWH",
+      "precision": 4,
+      "name": "PWH",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idkidkidkidk",
+      "symbol": "IDK",
+      "precision": 8,
+      "name": "IDK",
+      "logoURI": "http://68.183.234.182/assets/images/e612e33515f475b58e60bced7904023b.png"
+    },
+    {
+      "contract": "betariumtokn",
+      "symbol": "BETRIUM",
+      "precision": 4,
+      "name": "BETRIUM",
+      "logoURI": "http://68.183.234.182/assets/images/2a8bc84e9876a7c4c9f6210430c2f01a.png"
+    },
+    {
+      "contract": "rzbvlifetime",
+      "symbol": "RZBVL",
+      "precision": 4,
+      "name": "RZBVL",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "poolpoolpool",
+      "symbol": "POL",
+      "precision": 4,
+      "name": "POL",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idrtidrtidrt",
+      "symbol": "IDRT",
+      "precision": 4,
+      "name": "IDRT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "NDESO",
+      "precision": 8,
+      "name": "NDESO",
+      "logoURI": "http://68.183.234.182/assets/images/d4fdccff6182e674fb524ac57daacc14.jpeg"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BLC",
+      "precision": 4,
+      "name": "BLC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "diginomic123",
+      "symbol": "DGN",
+      "precision": 8,
+      "name": "DGN",
+      "logoURI": "http://68.183.234.182/assets/images/c7196ad66407d1becf474786e0c88c1e.png"
+    },
+    {
+      "contract": "vexbasotoken",
+      "symbol": "BASO",
+      "precision": 10,
+      "name": "BASO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "batikutokens",
+      "symbol": "BATIK",
+      "precision": 10,
+      "name": "BATIK",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "bnkriiotoken",
+      "symbol": "BNKRI",
+      "precision": 10,
+      "name": "BNKRI",
+      "logoURI": "http://68.183.234.182/assets/images/db84c76c491de26140d9fab191ce8618.png"
+    },
+    {
+      "contract": "kujangtokenn",
+      "symbol": "KUJANG",
+      "precision": 8,
+      "name": "KUJANG",
+      "logoURI": "http://68.183.234.182/assets/images/df4fc31f67d3ce73a1f6a4536ce56efd.jpeg"
+    },
+    {
+      "contract": "trafiiotoken",
+      "symbol": "TRAFI",
+      "precision": 10,
+      "name": "TRAFI",
+      "logoURI": "http://68.183.234.182/assets/images/4147ff2f257cd72c3584d695fb3324cc.png"
+    },
+    {
+      "contract": "lautlauttest",
+      "symbol": "LAUTT",
+      "precision": 8,
+      "name": "LAUTT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "rendangtoken",
+      "symbol": "RDNG",
+      "precision": 8,
+      "name": "RDNG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "dollardejave",
+      "symbol": "SDJV",
+      "precision": 8,
+      "name": "SDJV",
+      "logoURI": "http://68.183.234.182/assets/images/c3a45f535a935ae194377d92d977a60a.jpeg"
+    },
+    {
+      "contract": "rupiahdejave",
+      "symbol": "RDJV",
+      "precision": 8,
+      "name": "RDJV",
+      "logoURI": "http://68.183.234.182/assets/images/7dbfa3ef0bc5d04ee38b770af1ba2580.jpeg"
+    },
+    {
+      "contract": "kepengcore",
+      "symbol": "KPG",
+      "precision": 4,
+      "name": "KPG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "satevextoken",
+      "symbol": "SATE",
+      "precision": 8,
+      "name": "SATE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ecash.token",
+      "symbol": "ECASH",
+      "precision": 8,
+      "name": "ECASH",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ad24vextoken",
+      "symbol": "AD",
+      "precision": 10,
+      "name": "AD",
+      "logoURI": "http://68.183.234.182/assets/images/ed17f2286c7ca9a899dc9b0efe1673f3.png"
+    },
+    {
+      "contract": "saladswaptkn",
+      "symbol": "SALAD",
+      "precision": 8,
+      "name": "SALAD",
+      "logoURI": "http://68.183.234.182/assets/images/c20a06dc9c84f09e69cf481c88a68229.png"
+    },
+    {
+      "contract": "sab1lulungan",
+      "symbol": "KALECI",
+      "precision": 4,
+      "name": "KALECI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "volksvolksus",
+      "symbol": "VOLKS",
+      "precision": 10,
+      "name": "VOLKS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "crownztokenn",
+      "symbol": "CROWNZ",
+      "precision": 8,
+      "name": "CROWNZ",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexwraptoken",
+      "symbol": "WVEX",
+      "precision": 4,
+      "name": "WVEX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "kai.wrap",
+      "symbol": "WKAI",
+      "precision": 8,
+      "name": "WKAI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "eggvexatoken",
+      "symbol": "EGG",
+      "precision": 8,
+      "name": "EGG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "uppsme",
+      "symbol": "UPPS",
+      "precision": 7,
+      "name": "UPPS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "hotdogtokenn",
+      "symbol": "HOTDOG",
+      "precision": 8,
+      "name": "HOTDOG",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "izfvexatoken",
+      "symbol": "IZF",
+      "precision": 8,
+      "name": "IZF",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wtrafitokenn",
+      "symbol": "WTRAFI",
+      "precision": 10,
+      "name": "WTRAFI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wvolkstokenn",
+      "symbol": "WVOLKS",
+      "precision": 10,
+      "name": "WVOLKS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wrapvyntoken",
+      "symbol": "WVYN",
+      "precision": 8,
+      "name": "WVYN",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "bnb.wrap",
+      "symbol": "WBNB",
+      "precision": 8,
+      "name": "WBNB",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "pempektokenn",
+      "symbol": "PEMPEK",
+      "precision": 8,
+      "name": "PEMPEK",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vacvextokenn",
+      "symbol": "VAC",
+      "precision": 8,
+      "name": "VAC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "pjrcpjrcpjrc",
+      "symbol": "PJRC",
+      "precision": 8,
+      "name": "PJRC",
+      "logoURI": "http://68.183.234.182/assets/images/a97c4190886834150ea3a353c922ca4e.png"
+    },
+    {
+      "contract": "zen.speakapp",
+      "symbol": "ZEN",
+      "precision": 4,
+      "name": "ZEN",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "sotovextoken",
+      "symbol": "SOTO",
+      "precision": 8,
+      "name": "SOTO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "eazycore",
+      "symbol": "EAZY",
+      "precision": 4,
+      "name": "EAZY",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "btc.wrap",
+      "symbol": "WBTC",
+      "precision": 8,
+      "name": "WBTC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wxlm.wrap",
+      "symbol": "WXLM",
+      "precision": 7,
+      "name": "WXLM",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "syntheticvex",
+      "symbol": "SVEX",
+      "precision": 4,
+      "name": "SVEX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "gemtokenpool",
+      "symbol": "COFIN",
+      "precision": 6,
+      "name": "COFIN",
+      "logoURI": "http://68.183.234.182/assets/images/695966fe230756a712590724fc3a2695.png"
+    },
+    {
+      "contract": "xsgdvextoken",
+      "symbol": "XSGD",
+      "precision": 6,
+      "name": "XSGD",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "shibvexanium",
+      "symbol": "SHIBV",
+      "precision": 6,
+      "name": "SHIBV",
+      "logoURI": "http://68.183.234.182/assets/images/28ae5b1f414f5dfe0bba34d9bdbaa9c2.jpeg"
+    },
+    {
+      "contract": "vexadogevexa",
+      "symbol": "VDOGE",
+      "precision": 8,
+      "name": "VDOGE",
+      "logoURI": "http://68.183.234.182/assets/images/44a0a981ea716906ae33ca8b4dde50d5.png"
+    },
+    {
+      "contract": "safefiesta11",
+      "symbol": "FIESTA",
+      "precision": 6,
+      "name": "FIESTA",
+      "logoURI": "http://68.183.234.182/assets/images/99bc0f61fec5364439478a431eaa8201.png"
+    },
+    {
+      "contract": "syukurnyaman",
+      "symbol": "SUKUR",
+      "precision": 8,
+      "name": "SUKUR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BOLA",
+      "precision": 8,
+      "name": "BOLA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "meteortokenn",
+      "symbol": "MTR",
+      "precision": 8,
+      "name": "MTR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "juventusclub",
+      "symbol": "JUVE",
+      "precision": 8,
+      "name": "JUVE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "acmilanworld",
+      "symbol": "MILAN",
+      "precision": 8,
+      "name": "MILAN",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "venusiancryp",
+      "symbol": "VENUS",
+      "precision": 8,
+      "name": "VENUS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexbullvaxan",
+      "symbol": "BULL",
+      "precision": 8,
+      "name": "BULL",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "WIRAPRO",
+      "precision": 8,
+      "name": "WIRAPRO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "uye",
+      "symbol": "UYE",
+      "precision": 10,
+      "name": "UYE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "SABAR",
+      "precision": 8,
+      "name": "SABAR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "laziofootbal",
+      "symbol": "LAZIO",
+      "precision": 8,
+      "name": "LAZIO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "chelseagroup",
+      "symbol": "CHELSEA",
+      "precision": 8,
+      "name": "CHELSEA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "idr.speakapp",
+      "symbol": "ZIDR",
+      "precision": 2,
+      "name": "ZIDR",
+      "logoURI": "http://68.183.234.182/assets/images/6109082103a4488cce0fdc33c6fd87e7.png"
+    },
+    {
+      "contract": "lazioligacup",
+      "symbol": "LAZIO",
+      "precision": 6,
+      "name": "LAZIO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "reddbridging",
+      "symbol": "RDDV",
+      "precision": 8,
+      "name": "RDDV",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "token.arci",
+      "symbol": "ARCI",
+      "precision": 6,
+      "name": "ARCI",
+      "logoURI": "http://68.183.234.182/assets/images/d366cb87a1fb51aae491440111b33790.png"
+    },
+    {
+      "contract": "xakti",
+      "symbol": "XAKTI",
+      "precision": 4,
+      "name": "XAKTI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "coloniavexan",
+      "symbol": "ONI",
+      "precision": 8,
+      "name": "ONI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BDEJAVE",
+      "precision": 8,
+      "name": "BDEJAVE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BDJV",
+      "precision": 8,
+      "name": "BDJV",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "busdbusdbusd",
+      "symbol": "BUSD",
+      "precision": 8,
+      "name": "BUSD",
+      "logoURI": "http://68.183.234.182/assets/images/ef0d63fbc4a346067efa0ca1fdc9ea2b.png"
+    },
+    {
+      "contract": "bnbvexbnbvex",
+      "symbol": "BNB",
+      "precision": 10,
+      "name": "BNB",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "babycrabvexa",
+      "symbol": "CRAB",
+      "precision": 4,
+      "name": "CRAB",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "rddvprojects",
+      "symbol": "RDDX",
+      "precision": 8,
+      "name": "RDDX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "go.speakapp",
+      "symbol": "ZPEAK",
+      "precision": 8,
+      "name": "ZPEAK",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "baninabanina",
+      "symbol": "BANINA",
+      "precision": 8,
+      "name": "BANINA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wisetokenvex",
+      "symbol": "WISE",
+      "precision": 8,
+      "name": "WISE",
+      "logoURI": "http://68.183.234.182/assets/images/02dfe168b16e8fea0de383f994d8fb5f.png"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "WBT",
+      "precision": 4,
+      "name": "WBT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "egold.token",
+      "symbol": "EGOLD",
+      "precision": 2,
+      "name": "EGOLD",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vns.token",
+      "symbol": "VNS",
+      "precision": 4,
+      "name": "VNS",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "imanilmuamal",
+      "symbol": "HMI",
+      "precision": 8,
+      "name": "HMI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "goatfinance",
+      "symbol": "GOAT",
+      "precision": 8,
+      "name": "GOAT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "testtesttess",
+      "symbol": "TESS",
+      "precision": 8,
+      "name": "TESS",
+      "logoURI": "http://68.183.234.182/assets/images/5d27a5b10e07859e76ec42322466a3fc.jpg"
+    },
+    {
+      "contract": "ditesttestts",
+      "symbol": "DITES",
+      "precision": 8,
+      "name": "DITES",
+      "logoURI": "http://68.183.234.182/assets/images/2ad8b1a08b8f50c77701909a8670d87e.png"
+    },
+    {
+      "contract": "liverpoolvex",
+      "symbol": "LFC",
+      "precision": 4,
+      "name": "LFC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "aloyaloyaloy",
+      "symbol": "ALOY",
+      "precision": 4,
+      "name": "ALOY",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "desentrakopi",
+      "symbol": "DECO",
+      "precision": 4,
+      "name": "DECO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "starstarstar",
+      "symbol": "STAR",
+      "precision": 8,
+      "name": "STAR",
+      "logoURI": "http://68.183.234.182/assets/images/70c40873d0a69fa9314ed021b97720e8.png"
+    },
+    {
+      "contract": "shutterspeed",
+      "symbol": "CANDID",
+      "precision": 4,
+      "name": "CANDID",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "aisyaanindya",
+      "symbol": "AISYA",
+      "precision": 4,
+      "name": "AISYA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "boxbotnftvex",
+      "symbol": "TOON",
+      "precision": 4,
+      "name": "TOON",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "doidoidoidoi",
+      "symbol": "DOI",
+      "precision": 4,
+      "name": "DOI",
+      "logoURI": "http://68.183.234.182/assets/images/3a0ac70b53fba982c65b9ea9c6b124c6.png"
+    },
+    {
+      "contract": "wrbittorrent",
+      "symbol": "WBTT",
+      "precision": 6,
+      "name": "WBTT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wadayaisya23",
+      "symbol": "WDAISYA",
+      "precision": 4,
+      "name": "WDAISYA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "improduction",
+      "symbol": "IMPX",
+      "precision": 8,
+      "name": "IMPX",
+      "logoURI": "http://68.183.234.182/assets/images/c96f525262aad302928625aa9dbe5b35.jpeg"
+    },
+    {
+      "contract": "casvcasvcasv",
+      "symbol": "CASV",
+      "precision": 8,
+      "name": "CASV",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "luminotokens",
+      "symbol": "LIDR",
+      "precision": 8,
+      "name": "LIDR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "kenkenkitaro",
+      "symbol": "KETA",
+      "precision": 5,
+      "name": "KETA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "usd.speakapp",
+      "symbol": "ZUSD",
+      "precision": 8,
+      "name": "ZUSD",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "LIVIN",
+      "precision": 8,
+      "name": "LIVIN",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "koinemasindo",
+      "symbol": "EMAS",
+      "precision": 8,
+      "name": "EMAS",
+      "logoURI": "http://68.183.234.182/assets/images/711f87c9f2347ebfec5e6a8c7106744d.png"
+    },
+    {
+      "contract": "ayutingtoken",
+      "symbol": "ATTK",
+      "precision": 8,
+      "name": "ATTK",
+      "logoURI": "http://68.183.234.182/assets/images/cd415c95f1854f8ad38fe827d731214d.png"
+    },
+    {
+      "contract": "rockinliloco",
+      "symbol": "LILO",
+      "precision": 8,
+      "name": "LILO",
+      "logoURI": "http://68.183.234.182/assets/images/d2b0e9fdcad4c1c711e864ce7a1ad4d5.png"
+    },
+    {
+      "contract": "bnpcrossroad",
+      "symbol": "BNPX",
+      "precision": 8,
+      "name": "BNPX",
+      "logoURI": "http://68.183.234.182/assets/images/23b1978c42dbb5f601dfff115063ee46.png"
+    },
+    {
+      "contract": "starchandise",
+      "symbol": "STARX",
+      "precision": 8,
+      "name": "STARX",
+      "logoURI": "http://68.183.234.182/assets/images/8c9d8c9827b44e8f69c31c914c263924.png"
+    },
+    {
+      "contract": "mydiostarsco",
+      "symbol": "MDS",
+      "precision": 8,
+      "name": "MDS",
+      "logoURI": "http://68.183.234.182/assets/images/01e5b4911085eb7e825578806c486d21.png"
+    },
+    {
+      "contract": "grammykripto",
+      "symbol": "GMY",
+      "precision": 8,
+      "name": "GMY",
+      "logoURI": "http://68.183.234.182/assets/images/24c80c56b725ce58b46d059b483d2d1b.png"
+    },
+    {
+      "contract": "freepadtoken",
+      "symbol": "FREEP",
+      "precision": 8,
+      "name": "FREEP",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "asptvextoken",
+      "symbol": "ASPT",
+      "precision": 8,
+      "name": "ASPT",
+      "logoURI": "http://68.183.234.182/assets/images/5f1fa579e562a6cd39d80deab808fb5a.png"
+    },
+    {
+      "contract": "asixpointvex",
+      "symbol": "APTT",
+      "precision": 5,
+      "name": "APTT",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "asixplus",
+      "symbol": "ASIXP",
+      "precision": 5,
+      "name": "ASIXP",
+      "logoURI": "http://68.183.234.182/assets/images/42627e793cc1938c12e5c9b4714abb6e.png"
+    },
+    {
+      "contract": "accapayainih",
+      "symbol": "AA",
+      "precision": 5,
+      "name": "AA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "bitvexatoken",
+      "symbol": "BTV",
+      "precision": 8,
+      "name": "BTV",
+      "logoURI": "http://68.183.234.182/assets/images/9f326a012db709a7c1b2c9a447d8ac7c.png"
+    },
+    {
+      "contract": "vexakuytoken",
+      "symbol": "KUY",
+      "precision": 10,
+      "name": "KUY",
+      "logoURI": "http://68.183.234.182/assets/images/d05360f9d96a70ef6b245ae0e46485ab.png"
+    },
+    {
+      "contract": "love",
+      "symbol": "LOVE",
+      "precision": 6,
+      "name": "LOVE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "usdcusdcusdc",
+      "symbol": "USDC",
+      "precision": 8,
+      "name": "USDC",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "accapayainih",
+      "symbol": "BB",
+      "precision": 5,
+      "name": "BB",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ark",
+      "symbol": "ARK",
+      "precision": 8,
+      "name": "ARK",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "cicoincicoin",
+      "symbol": "CICX",
+      "precision": 0,
+      "name": "CICX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "safejupiterr",
+      "symbol": "JPTR",
+      "precision": 8,
+      "name": "JPTR",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "BURGER",
+      "precision": 6,
+      "name": "BURGER",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "wsppofficial",
+      "symbol": "WSPP",
+      "precision": 4,
+      "name": "WSPP",
+      "logoURI": "http://68.183.234.182/assets/images/6163a8167fc7515afcf0ccd024f48aec.png"
+    },
+    {
+      "contract": "bitchip",
+      "symbol": "CHIP",
+      "precision": 2,
+      "name": "CHIP",
+      "logoURI": "http://68.183.234.182/assets/images/447461f6d8f82687a357cdf6a1816826.png"
+    },
+    {
+      "contract": "z.bitvexa",
+      "symbol": "EXP",
+      "precision": 2,
+      "name": "EXP",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "z.bitvexa",
+      "symbol": "WOOD",
+      "precision": 2,
+      "name": "WOOD",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "z.bitvexa",
+      "symbol": "STONE",
+      "precision": 2,
+      "name": "STONE",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "bithash",
+      "symbol": "HASH",
+      "precision": 2,
+      "name": "HASH",
+      "logoURI": "http://68.183.234.182/assets/images/d823c5b4b3cba2123eab36ca40b96842.png"
+    },
+    {
+      "contract": "arsitektoken",
+      "symbol": "ARSI",
+      "precision": 6,
+      "name": "ARSI",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "litera.id",
+      "symbol": "LITE",
+      "precision": 4,
+      "name": "LITE",
+      "logoURI": "http://68.183.234.182/assets/images/52db5912668996bf0461553e01377523.png"
+    },
+    {
+      "contract": "vexnewtokens",
+      "symbol": "EOA",
+      "precision": 8,
+      "name": "EOA",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "evovexatoken",
+      "symbol": "EVO",
+      "precision": 10,
+      "name": "EVO",
+      "logoURI": "http://68.183.234.182/assets/images/fbdbceaa252528c42c1bad1f77482711.png"
+    },
+    {
+      "contract": "foxauthority",
+      "symbol": "FOX",
+      "precision": 6,
+      "name": "FOX",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "ltvextokenss",
+      "symbol": "LTVEX",
+      "precision": 4,
+      "name": "LTVEX",
+      "logoURI": "https://ipfs.io/ipfs/QmVvjcqBguJBCv3MSM8yH5yMAUvY8M3mb59J8efAwvGxky"
+    },
+    {
+      "contract": "vyndaoutoken",
+      "symbol": "VYN",
+      "precision": 8,
+      "name": "VYN",
+      "logoURI": "http://68.183.234.182/assets/images/beb6e59433b64f7e643cf20042c2004b.png"
+    },
+    {
+      "contract": "valenbit.bit",
+      "symbol": "VLEN",
+      "precision": 8,
+      "name": "VLEN",
+      "logoURI": "https://ipfs.io/ipfs/QmZNtDqGcqNo8Nt3v52MYXeCz6pkE3Z65w6zzcWvJ3EcvL"
+    },
+    {
+      "contract": "myrovextoken",
+      "symbol": "MYRO",
+      "precision": 6,
+      "name": "MYRO",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "equitydoearn",
+      "symbol": "EQ",
+      "precision": 4,
+      "name": "EQ",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "token.ethash",
+      "symbol": "ETHF",
+      "precision": 6,
+      "name": "ETHF",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "flow",
+      "symbol": "FLOW",
+      "precision": 2,
+      "name": "FLOW",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    },
+    {
+      "contract": "tokensawit",
+      "symbol": "SAWIT",
+      "precision": 4,
+      "name": "SAWIT",
+      "logoURI": "https://ipfs.io/ipfs/QmSv1JzS3eQNByReXDQCSCgRSTgLSStuZGt4Adm5cp7CZB"
+    },
+    {
+      "contract": "windaxgold24",
+      "symbol": "WDX",
+      "precision": 4,
+      "name": "WDX",
+      "logoURI": "https://i.imgur.com/k4en70v.png"
+    },
+    {
+      "contract": "token.wind",
+      "symbol": "WIND",
+      "precision": 8,
+      "name": "WIND",
+      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+    }
+  ]
+}

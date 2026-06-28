@@ -1,0 +1,49 @@
+name: Validate Native Token List PR
+
+on:
+  pull_request:
+    paths:
+      - 'tokenlist.json'
+      - 'assets/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch base branch
+        run: git fetch origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests Pillow
+
+      - name: Validate tokenlist & assets
+        run: python3 .github/scripts/validate.py
+
+      - name: Comment result on PR
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs')
+            let body = '## Native Token List Validation\n\n'
+            try {
+              const result = fs.readFileSync('/tmp/validation_result.txt', 'utf8')
+              body += result
+            } catch {
+              body += '> Validation script did not produce output.'
+            }
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body
+            })
