@@ -16,133 +16,133 @@
       "symbol": "VEX",
       "precision": 4,
       "name": "VEX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexdicetoken",
       "symbol": "DICE",
       "precision": 4,
       "name": "DICE",
-      "logoURI": "https://ipfs.io/ipfs/QmXsa1p5njh8nWwcxbzCHCf3yqv4zYfdHqPqFKKWniCNmS"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DICE.png"
     },
     {
       "contract": "flydicetoken",
       "symbol": "FLY",
       "precision": 4,
       "name": "FLY",
-      "logoURI": "https://ipfs.io/ipfs/QmbyqvACRiuh6VBfB1y5emw8wAgecVCcbF4ZeJCizWF344"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/FLY.png"
     },
     {
       "contract": "dogracetoken",
       "symbol": "DOG",
       "precision": 4,
       "name": "DOG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "crazydgtoken",
       "symbol": "CDOG",
       "precision": 4,
       "name": "CDOG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "realrtntoken",
       "symbol": "RTN",
       "precision": 4,
       "name": "RTN",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ekasepbanjar",
       "symbol": "GDAI",
       "precision": 4,
       "name": "GDAI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ekasepbanjar",
       "symbol": "EPAY",
       "precision": 4,
       "name": "EPAY",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "rpx",
       "symbol": "RPX",
       "precision": 4,
       "name": "RPX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "IDR",
       "precision": 4,
       "name": "IDR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "baygodzcoins",
       "symbol": "BAYGODZ",
       "precision": 4,
       "name": "BAYGODZ",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "tsrstableidr",
       "symbol": "TSR",
       "precision": 4,
       "name": "TSR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "danawakafvex",
       "symbol": "WAKAF",
       "precision": 4,
       "name": "WAKAF",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "BAMBU",
       "precision": 4,
       "name": "BAMBU",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "nhcore",
       "symbol": "NHC",
       "precision": 8,
       "name": "NHC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "LOTS",
       "precision": 2,
       "name": "LOTS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "nhp.nhcore",
       "symbol": "NHP",
       "precision": 0,
       "name": "NHP",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "idktestinfla",
       "symbol": "IDKTS",
       "precision": 4,
       "name": "IDKTS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "idktestfix12",
       "symbol": "IDKTI",
       "precision": 4,
       "name": "IDKTI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "deficointest",
@@ -156,21 +156,21 @@
       "symbol": "IDRS",
       "precision": 4,
       "name": "IDRS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "thepingtoken",
       "symbol": "PNG",
       "precision": 0,
       "name": "PNG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "skylabtokens",
       "symbol": "SKY",
       "precision": 0,
       "name": "SKY",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vyndaoutoken",
@@ -184,7 +184,7 @@
       "symbol": "KPNU",
       "precision": 4,
       "name": "KPNU",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "djvtokenvexa",
@@ -198,7 +198,7 @@
       "symbol": "EOS",
       "precision": 4,
       "name": "EOS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wrapingtoken",
@@ -219,7 +219,7 @@
       "symbol": "PWH",
       "precision": 4,
       "name": "PWH",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "idkidkidkidk",
@@ -240,21 +240,21 @@
       "symbol": "RZBVL",
       "precision": 4,
       "name": "RZBVL",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "poolpoolpool",
       "symbol": "POL",
       "precision": 4,
       "name": "POL",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "idrtidrtidrt",
       "symbol": "IDRT",
       "precision": 4,
       "name": "IDRT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
@@ -268,7 +268,7 @@
       "symbol": "BLC",
       "precision": 4,
       "name": "BLC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "diginomic123",
@@ -282,14 +282,14 @@
       "symbol": "BASO",
       "precision": 10,
       "name": "BASO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "batikutokens",
       "symbol": "BATIK",
       "precision": 10,
       "name": "BATIK",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "bnkriiotoken",
@@ -317,14 +317,14 @@
       "symbol": "LAUTT",
       "precision": 8,
       "name": "LAUTT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "rendangtoken",
       "symbol": "RDNG",
       "precision": 8,
       "name": "RDNG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "dollardejave",
@@ -345,21 +345,21 @@
       "symbol": "KPG",
       "precision": 4,
       "name": "KPG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "satevextoken",
       "symbol": "SATE",
       "precision": 8,
       "name": "SATE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ecash.token",
       "symbol": "ECASH",
       "precision": 8,
       "name": "ECASH",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ad24vextoken",
@@ -380,105 +380,105 @@
       "symbol": "KALECI",
       "precision": 4,
       "name": "KALECI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "volksvolksus",
       "symbol": "VOLKS",
       "precision": 10,
       "name": "VOLKS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "crownztokenn",
       "symbol": "CROWNZ",
       "precision": 8,
       "name": "CROWNZ",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexwraptoken",
       "symbol": "WVEX",
       "precision": 4,
       "name": "WVEX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "kai.wrap",
       "symbol": "WKAI",
       "precision": 8,
       "name": "WKAI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "eggvexatoken",
       "symbol": "EGG",
       "precision": 8,
       "name": "EGG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "uppsme",
       "symbol": "UPPS",
       "precision": 7,
       "name": "UPPS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "hotdogtokenn",
       "symbol": "HOTDOG",
       "precision": 8,
       "name": "HOTDOG",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "izfvexatoken",
       "symbol": "IZF",
       "precision": 8,
       "name": "IZF",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wtrafitokenn",
       "symbol": "WTRAFI",
       "precision": 10,
       "name": "WTRAFI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wvolkstokenn",
       "symbol": "WVOLKS",
       "precision": 10,
       "name": "WVOLKS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wrapvyntoken",
       "symbol": "WVYN",
       "precision": 8,
       "name": "WVYN",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "bnb.wrap",
       "symbol": "WBNB",
       "precision": 8,
       "name": "WBNB",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "pempektokenn",
       "symbol": "PEMPEK",
       "precision": 8,
       "name": "PEMPEK",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vacvextokenn",
       "symbol": "VAC",
       "precision": 8,
       "name": "VAC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "pjrcpjrcpjrc",
@@ -492,42 +492,42 @@
       "symbol": "ZEN",
       "precision": 4,
       "name": "ZEN",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "sotovextoken",
       "symbol": "SOTO",
       "precision": 8,
       "name": "SOTO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "eazycore",
       "symbol": "EAZY",
       "precision": 4,
       "name": "EAZY",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "btc.wrap",
       "symbol": "WBTC",
       "precision": 8,
       "name": "WBTC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wxlm.wrap",
       "symbol": "WXLM",
       "precision": 7,
       "name": "WXLM",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "syntheticvex",
       "symbol": "SVEX",
       "precision": 4,
       "name": "SVEX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "gemtokenpool",
@@ -541,7 +541,7 @@
       "symbol": "XSGD",
       "precision": 6,
       "name": "XSGD",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "shibvexanium",
@@ -569,84 +569,84 @@
       "symbol": "SUKUR",
       "precision": 8,
       "name": "SUKUR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "BOLA",
       "precision": 8,
       "name": "BOLA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "meteortokenn",
       "symbol": "MTR",
       "precision": 8,
       "name": "MTR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "juventusclub",
       "symbol": "JUVE",
       "precision": 8,
       "name": "JUVE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "acmilanworld",
       "symbol": "MILAN",
       "precision": 8,
       "name": "MILAN",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "venusiancryp",
       "symbol": "VENUS",
       "precision": 8,
       "name": "VENUS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexbullvaxan",
       "symbol": "BULL",
       "precision": 8,
       "name": "BULL",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "WIRAPRO",
       "precision": 8,
       "name": "WIRAPRO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "uye",
       "symbol": "UYE",
       "precision": 10,
       "name": "UYE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "SABAR",
       "precision": 8,
       "name": "SABAR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "laziofootbal",
       "symbol": "LAZIO",
       "precision": 8,
       "name": "LAZIO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "chelseagroup",
       "symbol": "CHELSEA",
       "precision": 8,
       "name": "CHELSEA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "idr.speakapp",
@@ -660,14 +660,14 @@
       "symbol": "LAZIO",
       "precision": 6,
       "name": "LAZIO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "reddbridging",
       "symbol": "RDDV",
       "precision": 8,
       "name": "RDDV",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "token.arci",
@@ -681,28 +681,28 @@
       "symbol": "XAKTI",
       "precision": 4,
       "name": "XAKTI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "coloniavexan",
       "symbol": "ONI",
       "precision": 8,
       "name": "ONI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "BDEJAVE",
       "precision": 8,
       "name": "BDEJAVE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "BDJV",
       "precision": 8,
       "name": "BDJV",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "busdbusdbusd",
@@ -716,35 +716,35 @@
       "symbol": "BNB",
       "precision": 10,
       "name": "BNB",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "babycrabvexa",
       "symbol": "CRAB",
       "precision": 4,
       "name": "CRAB",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "rddvprojects",
       "symbol": "RDDX",
       "precision": 8,
       "name": "RDDX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "go.speakapp",
       "symbol": "ZPEAK",
       "precision": 8,
       "name": "ZPEAK",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "baninabanina",
       "symbol": "BANINA",
       "precision": 8,
       "name": "BANINA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wisetokenvex",
@@ -758,35 +758,35 @@
       "symbol": "WBT",
       "precision": 4,
       "name": "WBT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "egold.token",
       "symbol": "EGOLD",
       "precision": 2,
       "name": "EGOLD",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vns.token",
       "symbol": "VNS",
       "precision": 4,
       "name": "VNS",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "imanilmuamal",
       "symbol": "HMI",
       "precision": 8,
       "name": "HMI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "goatfinance",
       "symbol": "GOAT",
       "precision": 8,
       "name": "GOAT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "testtesttess",
@@ -807,21 +807,21 @@
       "symbol": "LFC",
       "precision": 4,
       "name": "LFC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "aloyaloyaloy",
       "symbol": "ALOY",
       "precision": 4,
       "name": "ALOY",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "desentrakopi",
       "symbol": "DECO",
       "precision": 4,
       "name": "DECO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "starstarstar",
@@ -835,21 +835,21 @@
       "symbol": "CANDID",
       "precision": 4,
       "name": "CANDID",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "aisyaanindya",
       "symbol": "AISYA",
       "precision": 4,
       "name": "AISYA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "boxbotnftvex",
       "symbol": "TOON",
       "precision": 4,
       "name": "TOON",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "doidoidoidoi",
@@ -863,14 +863,14 @@
       "symbol": "WBTT",
       "precision": 6,
       "name": "WBTT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wadayaisya23",
       "symbol": "WDAISYA",
       "precision": 4,
       "name": "WDAISYA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "improduction",
@@ -884,35 +884,35 @@
       "symbol": "CASV",
       "precision": 8,
       "name": "CASV",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "luminotokens",
       "symbol": "LIDR",
       "precision": 8,
       "name": "LIDR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "kenkenkitaro",
       "symbol": "KETA",
       "precision": 5,
       "name": "KETA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "usd.speakapp",
       "symbol": "ZUSD",
       "precision": 8,
       "name": "ZUSD",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "LIVIN",
       "precision": 8,
       "name": "LIVIN",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "koinemasindo",
@@ -968,7 +968,7 @@
       "symbol": "FREEP",
       "precision": 8,
       "name": "FREEP",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "asptvextoken",
@@ -982,7 +982,7 @@
       "symbol": "APTT",
       "precision": 5,
       "name": "APTT",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "asixplus",
@@ -996,7 +996,7 @@
       "symbol": "AA",
       "precision": 5,
       "name": "AA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "bitvexatoken",
@@ -1017,49 +1017,49 @@
       "symbol": "LOVE",
       "precision": 6,
       "name": "LOVE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "usdcusdcusdc",
       "symbol": "USDC",
       "precision": 8,
       "name": "USDC",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "accapayainih",
       "symbol": "BB",
       "precision": 5,
       "name": "BB",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ark",
       "symbol": "ARK",
       "precision": 8,
       "name": "ARK",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "cicoincicoin",
       "symbol": "CICX",
       "precision": 0,
       "name": "CICX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "safejupiterr",
       "symbol": "JPTR",
       "precision": 8,
       "name": "JPTR",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "vexnewtokens",
       "symbol": "BURGER",
       "precision": 6,
       "name": "BURGER",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "wsppofficial",
@@ -1080,21 +1080,21 @@
       "symbol": "EXP",
       "precision": 2,
       "name": "EXP",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "z.bitvexa",
       "symbol": "WOOD",
       "precision": 2,
       "name": "WOOD",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "z.bitvexa",
       "symbol": "STONE",
       "precision": 2,
       "name": "STONE",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "bithash",
@@ -1108,7 +1108,7 @@
       "symbol": "ARSI",
       "precision": 6,
       "name": "ARSI",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "litera.id",
@@ -1122,7 +1122,7 @@
       "symbol": "EOA",
       "precision": 8,
       "name": "EOA",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "evovexatoken",
@@ -1136,14 +1136,14 @@
       "symbol": "FOX",
       "precision": 6,
       "name": "FOX",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "ltvextokenss",
       "symbol": "LTVEX",
       "precision": 4,
       "name": "LTVEX",
-      "logoURI": "https://ipfs.io/ipfs/QmVvjcqBguJBCv3MSM8yH5yMAUvY8M3mb59J8efAwvGxky"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/LTVEX.png"
     },
     {
       "contract": "vyndaoutoken",
@@ -1157,42 +1157,42 @@
       "symbol": "VLEN",
       "precision": 8,
       "name": "VLEN",
-      "logoURI": "https://ipfs.io/ipfs/QmZNtDqGcqNo8Nt3v52MYXeCz6pkE3Z65w6zzcWvJ3EcvL"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/VLEN.png"
     },
     {
       "contract": "myrovextoken",
       "symbol": "MYRO",
       "precision": 6,
       "name": "MYRO",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "equitydoearn",
       "symbol": "EQ",
       "precision": 4,
       "name": "EQ",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "token.ethash",
       "symbol": "ETHF",
       "precision": 6,
       "name": "ETHF",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "flow",
       "symbol": "FLOW",
       "precision": 2,
       "name": "FLOW",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     },
     {
       "contract": "tokensawit",
       "symbol": "SAWIT",
       "precision": 4,
       "name": "SAWIT",
-      "logoURI": "https://ipfs.io/ipfs/QmSv1JzS3eQNByReXDQCSCgRSTgLSStuZGt4Adm5cp7CZB"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/SAWIT.png"
     },
     {
       "contract": "windaxgold24",
@@ -1206,7 +1206,7 @@
       "symbol": "WIND",
       "precision": 8,
       "name": "WIND",
-      "logoURI": "https://ipfs.io/ipfs/Qma38cRCKz4ZeaSsqsG4k75gfog6dNpvjrThPbjvuMkXWE"
+      "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/DEFAULT.png"
     }
   ]
 }
