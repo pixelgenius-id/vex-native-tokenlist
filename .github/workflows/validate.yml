@@ -34,11 +34,18 @@ jobs:
       - name: Validate tokenlist & assets
         run: python3 .github/scripts/validate.py
 
+      - name: Generate bot token
+        id: bot-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Comment result on PR
         if: always()
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GH_PAT }}
+          github-token: ${{ steps.bot-token.outputs.token }}
           script: |
             const fs = require('fs')
             let body = '## Native Token List Validation\n\n'
