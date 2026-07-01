@@ -12,6 +12,12 @@
   ],
   "tokens": [
     {
+      "contract": "spark",
+      "symbol": "SPARK",
+      "precision": 4,
+      "name": "NodeSpark"
+    },
+    {
       "contract": "vex.token",
       "symbol": "VEX",
       "precision": 4,
