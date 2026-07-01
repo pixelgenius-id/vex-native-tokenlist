@@ -38,6 +38,7 @@ jobs:
         if: always()
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GH_PAT }}
           script: |
             const fs = require('fs')
             let body = '## Native Token List Validation\n\n'
