@@ -1,7 +1,7 @@
 name: Validate Native Token List PR
 
 on:
-  pull_request:
+  pull_request_target:
     paths:
       - 'tokenlist.json'
       - 'assets/**'
@@ -13,12 +13,15 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout base branch (scripts only)
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Fetch base branch
-        run: git fetch origin main
+      - name: Fetch PR data files into workspace
+        run: |
+          git fetch origin pull/${{ github.event.pull_request.number }}/head:pr-head
+          git checkout pr-head -- tokenlist.json assets/ || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
