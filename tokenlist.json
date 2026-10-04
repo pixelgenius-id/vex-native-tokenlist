@@ -1207,6 +1207,12 @@
       "precision": 8,
       "name": "WIND",
       "logoURI": "https://raw.githubusercontent.com/pixelgenius-id/vex-native-tokenlist/main/assets/WIND.png"
+    },
+    {
+      "contract": "token.wisp",
+      "symbol": "WISP",
+      "precision": 4,
+      "name": "WISP Token"
     }
   ]
 }
